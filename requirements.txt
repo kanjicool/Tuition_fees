@@ -1,0 +1,7 @@
+playwright
+pandas
+requests
+aiohttp
+openpyxl
+dash
+plotly
